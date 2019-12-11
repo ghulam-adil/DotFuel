@@ -1,0 +1,11 @@
+--primary-clr: #297ac3;
+    --primary-gradient: linear-gradient(135deg, var(--primary-clr) 0%, var(--contrast) 100%);
+    --accent-dark: #838390;
+    --white: #fff;
+    --accent-lte: #D3AB7B;
+    --accent-lte-dark: #0f5fa6;
+    --dark: #297ac3;
+    --lite: #EAF0EA;
+    --body: #e0e0e0;
+    --contrast: #6F3F24;
+    --primary-opaque: rgba(41,122,195,.4);

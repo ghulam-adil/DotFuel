@@ -1,0 +1,5 @@
+http://10.0.0.14/DotFuelFSAPI/api/Reports/GetProductSaleDay
+
+http://10.0.0.14/DotFuelFSAPI/api/DOTFuelServices/GetStationRealTimeData/
+
+http://10.0.0.14/DotFuelFSAPI/api/DOTFuelServices/SetPrice
